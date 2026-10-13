@@ -249,4 +249,4 @@ This repository serves as the official landing page for Temple Run 2. The softwa
 **Get the most recent version of Temple Run 2 today!**
 
 ---
-**Last updated:** 2026-10-12 20:43:40 UTC
+**Last updated:** 2026-10-13 02:20:48 UTC
